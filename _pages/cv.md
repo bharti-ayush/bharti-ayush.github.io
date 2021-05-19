@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. in Electrical and Electronics Engineering, Birla Institute of Technology and Sciences, Pilani, 2015
+* M.S. in Signal Processing and Computing, Aalborg University, 2017
+* Ph.D in Wireless Communications, Aalborg University, 2021
 
 Work experience
 ======
@@ -27,14 +27,6 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
