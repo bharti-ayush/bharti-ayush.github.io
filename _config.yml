@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Ayush Bharti"
   avatar           : "profile.png"
   bio              : "Postdoctoral Researcher"
-  location         : "Aalto University"
-  employer         :
+  location         : "Department of Computer Science"
+  employer         : "Aalto University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.dk/citations?user=6_7vkiUAAAAJ&hl=en"
   email            : "ayush.bharti@aalto.fi"
