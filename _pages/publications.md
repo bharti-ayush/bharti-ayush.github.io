@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-* ***A. Bharti***, F.-X. Briol, T. Pedersen,"A General Method for Calibrating Stochastic Channel Models with Kernels," *IEEE Transactions on Antennas and Propagation*, 2021.
+* ***A. Bharti***, F.-X. Briol, T. Pedersen,"A General Method for Calibrating Stochastic Channel Models with Kernels," *IEEE Transactions on Antennas and Propagation*, 2021. [***Journal***](https://ieeexplore.ieee.org/document/9445690) [(***Preprint***)](https://arxiv.org/abs/2012.09612) [(***Code***)](https://github.com/bharti-ayush/Kernel-based-ABC)
 * ***A.  Bharti***,  R.  Adeogun,  X.  Cai,  W.  Fan,  F.-X.  Briol,  L.  Clavier,  and T. Pedersen, “Joint modeling of received power, mean delay, and delay spread  for  wideband  radio  channels,” *IEEE  Transactions on Antennas and Propagation*, 2021.
 * ***A.  Bharti***,  R.  Adeogun,  and  T.  Pedersen,  “Auto-generated summaries for stochastic radio channel models,” in *15th European Conference on Antennas and Propagation*, pp. 1–5, 2021.
 * C.  Hirsch,  ***A.  Bharti***,  T.  Pedersen,  and  R.  Waagepetersen,  “Maximum likelihood  calibration  of  stochastic  multipath  radio  channel  models,” *IEEE Transactions on Antennas and Propagation*, 2020.
