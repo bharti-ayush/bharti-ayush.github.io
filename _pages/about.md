@@ -12,5 +12,10 @@ I am a postdoctoral researcher at Aalto University and the Finnish Centre for Ar
 
 Background
 ======
-I was employed as a PhD fellow at the Department of Electronic Systems, Aalborg University, Denmark from Nov 2017 to March 2021. My PhD topic was on making approximate Bayesian computation methods for stochastic models in the field of radio propagation. I received the M. Sc. degree in signal processing and computing also from Aalborg University.
+I was employed as a PhD fellow at the Department of Electronic Systems, Aalborg University, Denmark from Nov 2017 to March 2021. My PhD topic was on making approximate Bayesian computation methods for stochastic models in the field of radio propagation. 
+
+## Education
+* B.E. in Electrical and Electronics Engineering, Birla Institute of Technology and Sciences, Pilani, 2015
+* M.Sc. in Signal Processing and Computing, Aalborg University, 2017
+* Ph.D in Wireless Communications, Aalborg University, 2021
 
