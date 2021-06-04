@@ -6,7 +6,6 @@ author_profile: true
 
 ### Address
 
-Office 144 <br/>
 Department of Computer Science <br/>
 Aalto University <br/>
 Konemiehentie 2 <br/>
