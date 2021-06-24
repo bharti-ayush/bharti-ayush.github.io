@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-* ***A. Bharti***, "Calibrating stochastic radio channel models: an approximate bayesian computation approach", *PhD thesis*, 2021. [***(pdf)***][https://bharti-ayush.github.io/files/Ayush thesis.pdf]
+* ***A. Bharti***, "Calibrating stochastic radio channel models: an approximate bayesian computation approach", *PhD thesis*, 2021. [***(pdf)***][https://bharti-ayush.github.io/files/Ayush_thesis.pdf]
 
 * ***A. Bharti***, F.-X. Briol, T. Pedersen,"A General Method for Calibrating Stochastic Channel Models with Kernels," *IEEE Transactions on Antennas and Propagation*, 2021. [***(Journal)***](https://ieeexplore.ieee.org/document/9445690) [(***Preprint***)](https://arxiv.org/abs/2012.09612) [(***Code***)](https://github.com/bharti-ayush/Kernel-based-ABC)
 
