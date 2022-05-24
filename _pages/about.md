@@ -16,9 +16,8 @@ I am a postdoctoral researcher working with Prof. Samuel Kaski Aalto University,
 Previously, I was employed as a PhD fellow at the Department of Electronic Systems, Aalborg University, Denmark, from Nov 2017 to March 2021. My PhD topic was on making approximate Bayesian computation methods for estimating parameters of stochastic models in the field of radio propagation. I obtained the M.Sc. degree in Signal Processing and Computing from Aalborg University in 2017, and the B.E. degree in Electrical and Electronics Engineering from Birla Institute of Technology and Sciences, Pilani in 2015.
 
 ## News
----
-* Ph.D in Wireless Communications, Aalborg University, 2021
-* M.Sc. in Signal Processing and Computing, Aalborg University, 2017
+* ***May 2022:*** Our paper on [Approximate Bayesian Computation with Domain Expert in the Loop](https://arxiv.org/abs/2201.12090) was accepted for a short presentation at ICML 2022. 
+* ***April 2022:*** 
 * B.E. in Electrical and Electronics Engineering, Birla Institute of Technology and Sciences, Pilani, 2015
 
 
