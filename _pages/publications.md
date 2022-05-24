@@ -4,10 +4,12 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+* ***A. Bharti***, "Approximate Bayesian Computation with Domain Expert in the Loop", *accepted International Conference on Machine Learning (ICML)*, 2021. [***(Pre-print)***](https://arxiv.org/abs/2201.12090)
+
 * ***A. Bharti***, "Calibrating stochastic radio channel models: an approximate bayesian computation approach", *PhD thesis*, 2021. [***(PDF)***](https://bharti-ayush.github.io/files/Ayush_thesis.pdf)
 
-* ***A. Bharti***, F.-X. Briol, T. Pedersen,"A General Method for Calibrating Stochastic Channel Models with Kernels," *IEEE Transactions on Antennas and Propagation*, 2021. [***(Journal)***](https://ieeexplore.ieee.org/document/9445690) [(***Preprint***)](https://arxiv.org/abs/2012.09612) [(***Code***)](https://github.com/bharti-ayush/Kernel-based-ABC) [(***Video***)](https://recorder-v3.slideslive.com/#/share?share=54402&s=92af8bcb-f159-48dc-ab66-84d22b87537f)
-  - A preliminary version of the paper appeared in the NeurIPS workshop on Machine Learning and the Physical Sciences.
+* ***A. Bharti***, F.-X. Briol, T. Pedersen,"A General Method for Calibrating Stochastic Channel Models with Kernels," *IEEE Transactions on Antennas and Propagation*, 2021. [***(Journal)***](https://ieeexplore.ieee.org/document/9445690) [(***Pre-print***)](https://arxiv.org/abs/2012.09612) [(***Code***)](https://github.com/bharti-ayush/Kernel-based-ABC) [(***Poster***)](https://ml4physicalsciences.github.io/2021/files/NeurIPS_ML4PS_2021_2_poster.png)
+  - A preliminary version of the paper appeared in the NeurIPS workshop on [***Machine Learning and the Physical Sciences***](https://ml4physicalsciences.github.io/2021/). [(***Paper***)](https://ml4physicalsciences.github.io/2021/files/NeurIPS_ML4PS_2021_2.pdf)
 
 * ***A.  Bharti***,  R.  Adeogun,  X.  Cai,  W.  Fan,  F.-X.  Briol,  L.  Clavier,  and T. Pedersen, “Joint modeling of received power, mean delay, and delay spread  for  wideband  radio  channels,” *IEEE  Transactions on Antennas and Propagation*, 2021. [(***Journal***)](https://ieeexplore.ieee.org/document/9362172) [(***Preprint***)](https://arxiv.org/abs/2005.06808)
 
