@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at Aalto University and the Finnish Centre for Artificial Intelligence. I am associated with the Probabilistic Machine Learning research group at the Department of Computer Science. I am working with Prof. Samuel Kaski on AI-assisted simulator-based inference.
+I am a postdoctoral researcher working with Prof. Samuel Kaski Aalto University, and the Finnish Centre for Artificial Intelligence (FCAI). I am associated with the [***Probabilistic Machine Learning***](https://research.cs.aalto.fi/pml/) research group at the Department of Computer Science. My primary research area is ***simulation-based inference***, in particular:
+* approximate Bayesian computation
+* inference under model misspecification
+* human-in-the-loop learning
 
-Background
-======
-I was employed as a PhD fellow at the Department of Electronic Systems, Aalborg University, Denmark, from Nov 2017 to March 2021. My PhD topic was on making approximate Bayesian computation methods for estimating parameters of stochastic models in the field of radio propagation. 
+Previously, I was employed as a PhD fellow at the Department of Electronic Systems, Aalborg University, Denmark, from Nov 2017 to March 2021. My PhD topic was on making approximate Bayesian computation methods for estimating parameters of stochastic models in the field of radio propagation. 
 
-## Education
+### Education
 * Ph.D in Wireless Communications, Aalborg University, 2021
 * M.Sc. in Signal Processing and Computing, Aalborg University, 2017
 * B.E. in Electrical and Electronics Engineering, Birla Institute of Technology and Sciences, Pilani, 2015
