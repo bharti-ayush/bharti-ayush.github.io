@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher working with Prof. Samuel Kaski Aalto University, and the Finnish Centre for Artificial Intelligence (FCAI). I am associated with the [***Probabilistic Machine Learning***](https://research.cs.aalto.fi/pml/) research group at the Department of Computer Science. My primary research area is ***simulation-based inference***, in particular:
+I am a postdoctoral researcher working with Prof. Samuel Kaski Aalto University, and the Finnish Centre for Artificial Intelligence (FCAI). I am associated with the [Probabilistic Machine Learning](https://research.cs.aalto.fi/pml/) research group at the Department of Computer Science. My primary research area is ***simulation-based inference***, in particular:
 * approximate Bayesian computation
 * inference under model misspecification
 * human-in-the-loop learning
@@ -18,7 +18,7 @@ Previously, I was employed as a PhD fellow at the Department of Electronic Syste
 ## News
 * ***May 2022:*** Our paper on [Approximate Bayesian Computation with Domain Expert in the Loop](https://arxiv.org/abs/2201.12090) was accepted for a short presentation at ICML 2022. 
 * ***April 2022:*** I was featured in the [Everyday choices column](https://www.aalto.fi/en/news/everyday-choices-ayush-bharti-can-ai-fix-a-dropped-wi-fi-connection) of the Aalto University Magazine (Spring 2022 edition).
-* B.E. in Electrical and Electronics Engineering, Birla Institute of Technology and Sciences, Pilani, 2015
+* ***February 2022:*** Co-organised the [FCAI-Turing Meetup](https://fcai.fi/calendar/2022/2/23/turing-fcai-meetup) with [Dr. F.-X. Briol](https://fxbriol.github.io/). The event aimed at bringing together researchers from the Turing and FCAI to foster collaboration and create connections.
 
 
 
