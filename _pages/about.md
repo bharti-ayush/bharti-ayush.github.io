@@ -17,7 +17,7 @@ Previously, I was employed as a PhD fellow at the Department of Electronic Syste
 
 ## News
 * ***May 2022:*** Our paper on [Approximate Bayesian Computation with Domain Expert in the Loop](https://arxiv.org/abs/2201.12090) was accepted for a short presentation at ICML 2022. 
-* ***April 2022:*** 
+* ***April 2022:*** I was featured in the [Everyday choices column](https://www.aalto.fi/en/news/everyday-choices-ayush-bharti-can-ai-fix-a-dropped-wi-fi-connection) of the Aalto University Magazine (Spring 2022 edition).
 * B.E. in Electrical and Electronics Engineering, Birla Institute of Technology and Sciences, Pilani, 2015
 
 
