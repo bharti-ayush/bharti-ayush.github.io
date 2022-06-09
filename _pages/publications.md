@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-* ***A. Bharti***, L. Filstroff, S. Kaski, "Approximate Bayesian Computation with Domain Expert in the Loop", *accepted International Conference on Machine Learning (ICML)*, 2021. [***(Preprint)***](https://arxiv.org/abs/2201.12090)
+* ***A. Bharti***, L. Filstroff, S. Kaski, "Approximate Bayesian Computation with Domain Expert in the Loop", *accepted International Conference on Machine Learning (ICML)*, 2022. [***(Preprint)***](https://arxiv.org/abs/2201.12090)
 
 * ***A. Bharti***, "Calibrating stochastic radio channel models: an approximate bayesian computation approach", *PhD thesis*, 2021. [***(PDF)***](https://bharti-ayush.github.io/files/Ayush_thesis.pdf)
 
