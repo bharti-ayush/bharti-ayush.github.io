@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher working with Prof. Samuel Kaski at the Department of Computer Science, Aalto University, Finland. I am affiliated with the [Probabilistic Machine Learning](https://research.cs.aalto.fi/pml/) research group and the [Finnish Centre for Artificial Intelligence](https://fcai.fi/). My primary research area is ***simulation-based inference (or likelihood-free inference) methods***, such as approximate Bayesian computation. I am interested in developing robust inference methods that can handle ***model misspecification***.
+I am a postdoctoral researcher working with Prof. Samuel Kaski at the Department of Computer Science, Aalto University, Finland. I am affiliated with the [Probabilistic Machine Learning](https://research.cs.aalto.fi/pml/) research group and the [Finnish Centre for Artificial Intelligence](https://fcai.fi/). My primary research area is ***simulation-based inference (or likelihood-free inference) methods***, such as approximate Bayesian computation. I am interested in developing inference methods that are:
+* robust to outliers or model misspecification
+* sample efficient
 
 Previously, I was employed as a PhD fellow at the Department of Electronic Systems, Aalborg University, Denmark, from Nov 2017 to March 2021. My PhD topic was on making approximate Bayesian computation methods for estimating parameters of stochastic models in the field of radio propagation. I obtained the M.Sc. degree in Signal Processing and Computing from Aalborg University in 2017, and the B.E. degree in Electrical and Electronics Engineering from Birla Institute of Technology and Sciences, Pilani in 2015.
 
