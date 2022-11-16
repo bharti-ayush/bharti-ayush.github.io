@@ -15,7 +15,7 @@ I am a postdoctoral researcher working with Prof. Samuel Kaski at the Department
 Previously, I was employed as a PhD fellow at the Department of Electronic Systems, Aalborg University, Denmark, from Nov 2017 to March 2021. My PhD topic was on making approximate Bayesian computation methods for estimating parameters of stochastic models in the field of radio propagation. I obtained the M.Sc. degree in Signal Processing and Computing from Aalborg University in 2017, and the B.E. degree in Electrical and Electronics Engineering from Birla Institute of Technology and Sciences, Pilani in 2015.
 
 ## News
-* ***Nov 2022*** Talk at the Department of Statistical Science, UCL.
+* ***Nov 2022:*** Talk at the Department of Statistical Science, UCL.
 * ***Oct 2022:*** Talk at the AI Centre, UCL. [***Video***](https://www.youtube.com/watch?v=Gx18PH0kiY8&t=2s&ab_channel=UCLCentreforArtificialIntelligence)
 * ***Oct-Nov 2022:*** Visiting Dr. F-X Briol at the Dept. of Statistical Science, UCL.
 * ***May 2022:*** Our paper on [Approximate Bayesian Computation with Domain Expert in the Loop](https://arxiv.org/abs/2201.12090) was accepted for a short presentation at ICML 2022. 
