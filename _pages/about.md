@@ -16,7 +16,7 @@ Previously, I was employed as a PhD fellow at the Department of Electronic Syste
 
 ## News
 * ***April 2023:*** Our paper on [Optimally-weighted Estimators of the MMD for Likelihood-free Inference](https://arxiv.org/abs/2301.11674) was accepted at ICML 2023. 
-* ***March 2023:*** Gave a talk at [BayesComp 2023](https://bayescomp2023.com/) conference on our paper [Optimally-weighted Estimators of the MMD for Likelihood-free Inference](https://arxiv.org/abs/2301.11674).
+* ***March 2023:*** Gave a talk at [BayesComp 2023](https://bayescomp2023.com/) conference on our paper [Optimally-weighted Estimators of the MMD for Likelihood-free Inference](https://arxiv.org/abs/2301.11674). hello
 * ***Nov 2022:*** Talk at the Department of Statistical Science, UCL.
 * ***Oct 2022:*** Talk at the AI Centre, UCL. [***Video***](https://www.youtube.com/watch?v=Gx18PH0kiY8&t=2s&ab_channel=UCLCentreforArtificialIntelligence)
 * ***Oct-Nov 2022:*** Visiting Dr. F-X Briol at the Dept. of Statistical Science, UCL.
