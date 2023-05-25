@@ -8,6 +8,8 @@ author_profile: true
 
 * ***A. Bharti***, M. Naslidnyk, O. Key, S. Kaski, F-X., Briol, "Optimally-Weighted Estimators of the Maximum Mean Discrepancy for Likelihood-Free Inference", *accepted at International Conference on Machine Learning (ICML)*, 2023. [***(Preprint)***](https://arxiv.org/abs/2301.11674) [***(Code)***](https://github.com/bharti-ayush/optimally-weighted_MMD)
 
+*C. Hirsch, ***A. Bharti***, T. Pedersen, R. Waagepetersen, "Bayesian Inference for Stochastic Multipath Radio Channel Models", *IEEE Transactions on Antennas and Propagation*, 2023. [***(Journal)***](https://ieeexplore.ieee.org/document/10045670)
+
 * ***A. Bharti***, L. Filstroff, S. Kaski, "Approximate Bayesian Computation with Domain Expert in the Loop", *International Conference on Machine Learning (ICML)*, 2022. [(***Conference***)](https://proceedings.mlr.press/v162/bharti22a.html) [***(Preprint)***](https://arxiv.org/abs/2201.12090)[***(Video)***](https://youtu.be/Gx18PH0kiY8 ) [***(Poster)***](https://bharti-ayush.github.io/files/ICML_poster.pdf) 
 [***(Slides)***](https://bharti-ayush.github.io/files/HITL-ABC_slides.pdf)
 
