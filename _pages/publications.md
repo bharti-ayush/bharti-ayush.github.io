@@ -4,9 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+* D Huang*, ***A. Bharti* ***, A. Souza, L. Acerbi, S. Kaski, "Learning Robust Statistics for Simulation-based Inference under Model Misspecification", *	arXiv:2305.15871*, 2023. [***(Preprint)***](https://arxiv.org/abs/2305.15871)
+
 * J. Martinelli, ***A. Bharti***, ST John, A. Tiihonen, S. Sloman, L. Filstroff, S. Kaski, "Cost-aware learning of relevant contextual variables within Bayesian Optimization", *arXiv.2305.14120*, 2023. [***(Preprint)***](https://arxiv.org/abs/2305.14120)
 
-* ***A. Bharti***, M. Naslidnyk, O. Key, S. Kaski, F-X., Briol, "Optimally-Weighted Estimators of the Maximum Mean Discrepancy for Likelihood-Free Inference", *accepted at International Conference on Machine Learning (ICML)*, 2023. [***(Preprint)***](https://arxiv.org/abs/2301.11674) [***(Code)***](https://github.com/bharti-ayush/optimally-weighted_MMD)
+* ***A. Bharti***, M. Naslidnyk, O. Key, S. Kaski, F-X. Briol, "Optimally-Weighted Estimators of the Maximum Mean Discrepancy for Likelihood-Free Inference", *accepted at International Conference on Machine Learning (ICML)*, 2023. [***(Preprint)***](https://arxiv.org/abs/2301.11674) [***(Code)***](https://github.com/bharti-ayush/optimally-weighted_MMD)
 
 * C. Hirsch, ***A. Bharti***, T. Pedersen, R. Waagepetersen, "Bayesian Inference for Stochastic Multipath Radio Channel Models", *IEEE Transactions on Antennas and Propagation*, 2023. [***(Journal)***](https://ieeexplore.ieee.org/document/10045670)
 
