@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-* D Huang*, ***A. Bharti***\*, A. H. Souza, L. Acerbi, S. Kaski, "Learning Robust Statistics for Simulation-based Inference under Model Misspecification", *arXiv:2305.15871*, 2023. [***(Preprint)***](https://arxiv.org/abs/2305.15871)
+* D Huang*, **A. Bharti**\*, A. H. Souza, L. Acerbi, S. Kaski, "Learning Robust Statistics for Simulation-based Inference under Model Misspecification", *arXiv:2305.15871*, 2023. [***(Preprint)***](https://arxiv.org/abs/2305.15871)
 
 * J. Martinelli, ***A. Bharti***, ST John, A. Tiihonen, S. Sloman, L. Filstroff, S. Kaski, "Cost-aware learning of relevant contextual variables within Bayesian Optimization", *arXiv.2305.14120*, 2023. [***(Preprint)***](https://arxiv.org/abs/2305.14120)
 
