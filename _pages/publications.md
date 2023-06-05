@@ -8,7 +8,7 @@ author_profile: true
 
 * J. Martinelli, **A. Bharti**, ST John, A. Tiihonen, S. Sloman, L. Filstroff, S. Kaski, "Cost-aware learning of relevant contextual variables within Bayesian Optimization", *arXiv.2305.14120*, 2023. [***(Preprint)***](https://arxiv.org/abs/2305.14120)
 
-* **A. Bharti**, M. Naslidnyk, O. Key, S. Kaski, F-X. Briol, "Optimally-Weighted Estimators of the Maximum Mean Discrepancy for Likelihood-Free Inference", *accepted at International Conference on Machine Learning (ICML)*, 2023. [***(Preprint)***](https://arxiv.org/abs/2301.11674) [***(Code)***](https://github.com/bharti-ayush/optimally-weighted_MMD) [***(Slides)***](https://bharti-ayush.github.io/files/OptimallyWeighted_MMD_slides.pdf) [***(Video)***](https://recorder-v3.slideslive.com/?share=81622&s=6e5a04f0-b207-4e15-8daf-14641cc08143)
+* **A. Bharti**, M. Naslidnyk, O. Key, S. Kaski, F-X. Briol, "Optimally-Weighted Estimators of the Maximum Mean Discrepancy for Likelihood-Free Inference", *International Conference on Machine Learning (ICML)*, 2023. [***(Preprint)***](https://arxiv.org/abs/2301.11674) [***(Code)***](https://github.com/bharti-ayush/optimally-weighted_MMD) [***(Slides)***](https://bharti-ayush.github.io/files/OptimallyWeighted_MMD_slides.pdf) [***(Video)***](https://recorder-v3.slideslive.com/?share=81622&s=6e5a04f0-b207-4e15-8daf-14641cc08143)
 
 * C. Hirsch, **A. Bharti**, T. Pedersen, R. Waagepetersen, "Bayesian Inference for Stochastic Multipath Radio Channel Models", *IEEE Transactions on Antennas and Propagation*, 2023. [***(Journal)***](https://ieeexplore.ieee.org/document/10045670)
 
