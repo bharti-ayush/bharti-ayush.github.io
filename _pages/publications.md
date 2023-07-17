@@ -12,7 +12,7 @@ author_profile: true
 
 * C. Hirsch, **A. Bharti**, T. Pedersen, R. Waagepetersen, "Bayesian Inference for Stochastic Multipath Radio Channel Models", *IEEE Transactions on Antennas and Propagation*, 2023. [***(Journal)***](https://ieeexplore.ieee.org/document/10045670)
 
-* **A. Bharti**, L. Filstroff, S. Kaski, "Approximate Bayesian Computation with Domain Expert in the Loop", * Proceedings of the 39th International Conference on Machine Learning, PMLR 162:1893-1905*, 2022. [(***Conference***)](https://proceedings.mlr.press/v162/bharti22a.html) [***(Preprint)***](https://arxiv.org/abs/2201.12090)[***(Video)***](https://youtu.be/Gx18PH0kiY8 ) [***(Poster)***](https://bharti-ayush.github.io/files/ICML_poster.pdf) 
+* **A. Bharti**, L. Filstroff, S. Kaski, "Approximate Bayesian Computation with Domain Expert in the Loop", *Proceedings of the 39th International Conference on Machine Learning, PMLR 162:1893-1905*, 2022. [(***Conference***)](https://proceedings.mlr.press/v162/bharti22a.html) [***(Preprint)***](https://arxiv.org/abs/2201.12090)[***(Video)***](https://youtu.be/Gx18PH0kiY8 ) [***(Poster)***](https://bharti-ayush.github.io/files/ICML_poster.pdf) 
 [***(Slides)***](https://bharti-ayush.github.io/files/HITL-ABC_slides.pdf)
 
 * **A. Bharti**, "Calibrating stochastic radio channel models: an approximate Bayesian computation approach", *PhD thesis*, 2021. [***(PDF)***](https://bharti-ayush.github.io/files/Ayush_thesis.pdf)
