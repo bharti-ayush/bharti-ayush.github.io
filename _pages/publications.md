@@ -6,7 +6,7 @@ author_profile: true
 ---
 * S. J. Sloman, **A. Bharti**, S. Kaski, "The Fundamental Dilemma of Bayesian Active Meta-learning", *arxiv.2310.14968*, 2023. [***(Preprint)***](https://arxiv.org/abs/2310.14968)
 
-* **A. Bharti**\*, D Huang\*, A. H. Souza, L. Acerbi, S. Kaski, "Learning Robust Statistics for Simulation-based Inference under Model Misspecification", *Advances in Neural Information Processing Systems*, 2023. [***(Conference)***](https://openreview.net/forum?id=STrXsSIEiq) [***(Preprint)***](https://arxiv.org/abs/2305.15871)
+* **A. Bharti**\*, D Huang\*, A. H. Souza, L. Acerbi, S. Kaski, "Learning Robust Statistics for Simulation-based Inference under Model Misspecification", *Advances in Neural Information Processing Systems*, 2023. [***(Conference)***](https://openreview.net/forum?id=STrXsSIEiq) [***(Preprint)***](https://arxiv.org/abs/2305.15871) [***(Slides)***](https://bharti-ayush.github.io/files/Presentation_Robust_SBI.pdf) [***(Poster)***](https://bharti-ayush.github.io/files/Poster_Neurips_2023.pdf)
 
 * J. Martinelli, **A. Bharti**, ST John, A. Tiihonen, S. Sloman, L. Filstroff, S. Kaski, "Cost-aware learning of relevant contextual variables within Bayesian Optimization", *arXiv.2305.14120*, 2023. [***(Preprint)***](https://arxiv.org/abs/2305.14120)
 
