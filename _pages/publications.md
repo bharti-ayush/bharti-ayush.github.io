@@ -4,13 +4,14 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-* S. J. Sloman, **A. Bharti**, S. Kaski, "The Fundamental Dilemma of Bayesian Active Meta-learning", *arxiv.2310.14968*, 2023. [***(Preprint)***](https://arxiv.org/abs/2310.14968)
+* S. J. Sloman, **A. Bharti**, S. Kaski, "Bayesian Active Learning in the Presence of Nuisance Parameters", *Uncertainty in Artificial Intelligence (UAI)*, 2024. [***(Preprint)***](https://arxiv.org/abs/2310.14968)
+  - Accepted for an oral presentation at UAI
 
 * **A. Bharti**\*, D Huang\*, A. H. Souza, L. Acerbi, S. Kaski, "Learning Robust Statistics for Simulation-based Inference under Model Misspecification", *Advances in Neural Information Processing Systems*, 2023. [***(Conference)***](https://openreview.net/forum?id=STrXsSIEiq) [***(Preprint)***](https://arxiv.org/abs/2305.15871) [***(Slides)***](https://bharti-ayush.github.io/files/Presentation_Robust_SBI.pdf) [***(Poster)***](https://bharti-ayush.github.io/files/Poster_Neurips_2023.pdf)
 
-* J. Martinelli, **A. Bharti**, ST John, A. Tiihonen, S. Sloman, L. Filstroff, S. Kaski, "Cost-aware learning of relevant contextual variables within Bayesian Optimization", *arXiv.2305.14120*, 2023. [***(Preprint)***](https://arxiv.org/abs/2305.14120)
+* J. Martinelli, **A. Bharti**, ST John, A. Tiihonen, S. Sloman, L. Filstroff, S. Kaski, "Learning relevant contextual variables within Bayesian Optimization", *Uncertainty in Artificial Intelligence (UAI)*, 2024. [***(Preprint)***](https://arxiv.org/abs/2305.14120)
 
-* **A. Bharti**, M. Naslidnyk, O. Key, S. Kaski, F-X. Briol, "Optimally-Weighted Estimators of the Maximum Mean Discrepancy for Likelihood-Free Inference", *Proceedings of the 40th International Conference on Machine Learning, PMLR 202:2289-2312*, 2023. [***(Conference)***](https://proceedings.mlr.press/v202/bharti23a.html) [***(Preprint)***](https://arxiv.org/abs/2301.11674) [***(Code)***](https://github.com/bharti-ayush/optimally-weighted_MMD) [***(Slides)***](https://bharti-ayush.github.io/files/OptimallyWeighted_MMD_slides.pdf) [***(Video)***](https://recorder-v3.slideslive.com/?share=81622&s=6e5a04f0-b207-4e15-8daf-14641cc08143) [***(Poster)***](https://bharti-ayush.github.io/files/Poster_ICML2023.pdf) 
+* **A. Bharti**, M. Naslidnyk, O. Key, S. Kaski, F-X. Briol, "Optimally-Weighted Estimators of the Maximum Mean Discrepancy for Likelihood-Free Inference", *Proceedings of the 40th International Conference on Machine Learning, PMLR 202:2289-2312*, 2023. [***(Conference)***](https://proceedings.mlr.press/v202/bharti23a.html) [***(Preprint)***](https://arxiv.org/abs/2301.11674) [***(Code)***](https://github.com/bharti-ayush/optimally-weighted_MMD) [***(Slides)***](https://bharti-ayush.github.io/files/OptimallyWeighted_MMD_slides.pdf) [***(Poster)***](https://bharti-ayush.github.io/files/Poster_ICML2023.pdf) 
 
 * C. Hirsch, **A. Bharti**, T. Pedersen, R. Waagepetersen, "Bayesian Inference for Stochastic Multipath Radio Channel Models", *IEEE Transactions on Antennas and Propagation*, 2023. [***(Journal)***](https://ieeexplore.ieee.org/document/10045670)
 
