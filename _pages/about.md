@@ -15,6 +15,7 @@ I am a postdoctoral researcher working with Prof. Samuel Kaski at the Department
 Previously, I was employed as a PhD fellow at the Department of Electronic Systems, Aalborg University, Denmark, from Nov 2017 to March 2021. My PhD topic was on making approximate Bayesian computation methods for estimating parameters of stochastic models in the field of radio propagation. I obtained the M.Sc. degree in Signal Processing and Computing from Aalborg University in 2017, and the B.E. degree in Electrical and Electronics Engineering from Birla Institute of Technology and Sciences, Pilani in 2015. [Click here](https://bharti-ayush.github.io/files/CV_Ayush.pdf) to see my CV.
 
 ## News
+* ***June 2024:*** I have received the [Academy Research Fellowship](https://research.fi/en/results/funding/81492) grant from the Research Council of Finland. 
 * ***April 2024:*** Our paper on [Bayesian Active Learning in the Presence of Nuisance Parameters](https://arxiv.org/abs/2310.14968) was accepted for an **oral** presentation at UAI 2024.
 * ***April 2024:*** Our paper on [Learning relevant contextual variables within Bayesian Optimization](https://arxiv.org/abs/2305.14120) was accepted at UAI 2024.
 * ***Sep 2023:*** Our paper on [Learning Robust Statistics for Simulation-based Inference under Model Misspecification](https://arxiv.org/abs/2305.15871) was accepted at NeurIPS 2023.
