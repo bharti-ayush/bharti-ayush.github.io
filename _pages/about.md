@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher working with Prof. Samuel Kaski at the Department of Computer Science, Aalto University, Finland. I am affiliated with the [Probabilistic Machine Learning](https://research.cs.aalto.fi/pml/) research group and the [Finnish Centre for Artificial Intelligence](https://fcai.fi/). My primary research area is ***simulation-based inference (or likelihood-free inference) methods***, such as approximate Bayesian computation. I am interested in developing inference methods that are:
+I am currently a postdoctoral researcher working with Prof. Samuel Kaski at the Department of Computer Science, Aalto University, Finland, affiliated with the [Probabilistic Machine Learning](https://research.cs.aalto.fi/pml/) research group and the [Finnish Centre for Artificial Intelligence](https://fcai.fi/). Starting September 2024, I will begin my new position as the Academy Research Fellow at Aalto University, supported by by the Research Council of Finland. 
+
+My primary research area is ***simulation-based inference (or likelihood-free inference) methods***, such as approximate Bayesian computation. I am interested in developing inference methods that are:
 * robust to model misspecification
 * sample efficient
 
