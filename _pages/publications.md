@@ -4,12 +4,12 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-* S. J. Sloman, **A. Bharti**, S. Kaski, "Bayesian Active Learning in the Presence of Nuisance Parameters", *Uncertainty in Artificial Intelligence (UAI)*, 2024. [***(Preprint)***](https://arxiv.org/abs/2310.14968)
+* S. J. Sloman, **A. Bharti**, S. Kaski, "Bayesian Active Learning in the Presence of Nuisance Parameters", *Uncertainty in Artificial Intelligence (UAI)*, 2024. [***(Conference)***](https://openreview.net/forum?id=dRa16UhuZi) [***(Preprint)***](https://arxiv.org/abs/2310.14968)
   - Accepted for an oral presentation at UAI
 
-* **A. Bharti**\*, D Huang\*, A. H. Souza, L. Acerbi, S. Kaski, "Learning Robust Statistics for Simulation-based Inference under Model Misspecification", *Advances in Neural Information Processing Systems*, 2023. [***(Conference)***](https://openreview.net/forum?id=STrXsSIEiq) [***(Preprint)***](https://arxiv.org/abs/2305.15871) [***(Slides)***](https://bharti-ayush.github.io/files/Presentation_Robust_SBI.pdf) [***(Poster)***](https://bharti-ayush.github.io/files/Poster_Neurips_2023.pdf)
+* J. Martinelli, **A. Bharti**, ST John, A. Tiihonen, S. Sloman, L. Filstroff, S. Kaski, "Learning relevant contextual variables within Bayesian Optimization", *Uncertainty in Artificial Intelligence (UAI)*, 2024. [***(Conference)***](https://openreview.net/forum?id=qb33ha9frm)  [***(Preprint)***](https://arxiv.org/abs/2305.14120)
 
-* J. Martinelli, **A. Bharti**, ST John, A. Tiihonen, S. Sloman, L. Filstroff, S. Kaski, "Learning relevant contextual variables within Bayesian Optimization", *Uncertainty in Artificial Intelligence (UAI)*, 2024. [***(Preprint)***](https://arxiv.org/abs/2305.14120)
+* * **A. Bharti**\*, D Huang\*, A. H. Souza, L. Acerbi, S. Kaski, "Learning Robust Statistics for Simulation-based Inference under Model Misspecification", *Advances in Neural Information Processing Systems*, 2023. [***(Conference)***](https://openreview.net/forum?id=STrXsSIEiq) [***(Preprint)***](https://arxiv.org/abs/2305.15871) [***(Slides)***](https://bharti-ayush.github.io/files/Presentation_Robust_SBI.pdf) [***(Poster)***](https://bharti-ayush.github.io/files/Poster_Neurips_2023.pdf)
 
 * **A. Bharti**, M. Naslidnyk, O. Key, S. Kaski, F-X. Briol, "Optimally-Weighted Estimators of the Maximum Mean Discrepancy for Likelihood-Free Inference", *Proceedings of the 40th International Conference on Machine Learning, PMLR 202:2289-2312*, 2023. [***(Conference)***](https://proceedings.mlr.press/v202/bharti23a.html) [***(Preprint)***](https://arxiv.org/abs/2301.11674) [***(Code)***](https://github.com/bharti-ayush/optimally-weighted_MMD) [***(Slides)***](https://bharti-ayush.github.io/files/OptimallyWeighted_MMD_slides.pdf) [***(Poster)***](https://bharti-ayush.github.io/files/Poster_ICML2023.pdf) 
 
