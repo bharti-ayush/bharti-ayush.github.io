@@ -4,6 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+* **A. Bharti**, D. Huang, S. Kaski, F-X. Briol, "Cost-aware simulation-based inference", *arXiv:2410.07930.*, 2024. [***(Preprint)***](https://arxiv.org/abs/2410.07930)
+  
 * S. J. Sloman, **A. Bharti**, S. Kaski, "Bayesian Active Learning in the Presence of Nuisance Parameters", *Uncertainty in Artificial Intelligence (UAI)*, 2024. [***(Conference)***](https://openreview.net/forum?id=dRa16UhuZi) [***(Preprint)***](https://arxiv.org/abs/2310.14968)
   - Accepted for an oral presentation at UAI
 
