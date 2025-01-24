@@ -15,6 +15,7 @@ My primary research area is ***simulation-based inference*** (or likelihood-free
 ## News
 * ***January 2025:*** Our paper on [Cost-aware Simulation-Based Inference](https://arxiv.org/abs/2410.07930) was accepted at AISTATS 2025.
 * ***January 2025:*** Our paper on **Robust Simulation-Based Inference under Missing Data** was accepted at ICLR 2025.
+* ***January 2025:*** [Yuga Hikida](https://yugahikida.github.io/) joined as a PhD student on my Research Council of Finland project.
 * ***June 2024:*** I have received the [Academy Research Fellowship](https://research.fi/en/results/funding/81492) grant from the Research Council of Finland. 
 * ***April 2024:*** Our paper on [Bayesian Active Learning in the Presence of Nuisance Parameters](https://arxiv.org/abs/2310.14968) was accepted for an **oral** presentation at UAI 2024.
 * ***April 2024:*** Our paper on [Learning relevant contextual variables within Bayesian Optimization](https://arxiv.org/abs/2305.14120) was accepted at UAI 2024.
