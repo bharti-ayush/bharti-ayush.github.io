@@ -4,6 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+* Y. Hikida, **A. Bharti**, N. Jeffry, F-X. Briol, "Multilevel neural simulation-based inference", *arxiv 2506.06087*, 2025. [***(Preprint)***](https://arxiv.org/abs/2506.06087) [***(Code)***](https://github.com/yugahikida/multilevel-sbi)
+
 * **A. Bharti**, D. Huang, S. Kaski, F-X. Briol, "Cost-aware simulation-based inference", *International Conference on Artificial Intelligence and Statistics (AISTATS)*, 2025. [***(Conference)***](https://proceedings.mlr.press/v258/bharti25a.html)  [***(Preprint)***](https://arxiv.org/abs/2410.07930) [***(Code)***](https://github.com/huangdaolang/cost-aware-sbi)
 
 * Y. Verma, **A. Bharti**, V. Garg, "Robust Simulation-Based Inference under Missing Data via Neural Processes", *International Conference on Learning Representations (ICLR)*, 2025. [***(Conference)***](https://openreview.net/forum?id=GsR3zRCRX5) [***(Preprint)***](https://arxiv.org/abs/2503.01287) [***(Code)***](https://github.com/Aalto-QuML/RISE)
