@@ -13,6 +13,7 @@ I am an Academy Research Fellow at the Department of Computer Science, Aalto Uni
 My primary research area is ***simulation-based inference*** (or likelihood-free inference). I am interested in developing approximate inference methods that are (i) robust to model misspecification, and (ii) computationally efficient. For more details on my work, see my [Publications](https://bharti-ayush.github.io/publications/) page or my [Google scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=6_7vkiUAAAAJ&sortby=pubdate)
 
 ## News
+* ***September 2025*** I was recently featured in the [Humans of FCAI](https://fcai.fi/news/2025/9/12/collaboration-is-a-feature-of-the-finnish-research-community) newsletter.
 * ***January 2025:*** Our paper on [Cost-aware Simulation-Based Inference](https://arxiv.org/abs/2410.07930) is accepted at AISTATS 2025.
 * ***January 2025:*** Our paper on [Robust Simulation-Based Inference under Missing Data](https://openreview.net/forum?id=GsR3zRCRX5) is accepted at ICLR 2025.
 * ***January 2025:*** [Yuga Hikida](https://yugahikida.github.io/) joined as a PhD student on my Research Council of Finland project.
