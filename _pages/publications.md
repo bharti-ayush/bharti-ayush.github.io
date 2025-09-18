@@ -12,8 +12,7 @@ author_profile: true
 
 * Y. Verma, **A. Bharti**, V. Garg, "Robust Simulation-Based Inference under Missing Data via Neural Processes", *International Conference on Learning Representations (ICLR)*, 2025. [***(Conference)***](https://openreview.net/forum?id=GsR3zRCRX5) [***(Preprint)***](https://arxiv.org/abs/2503.01287) [***(Code)***](https://github.com/Aalto-QuML/RISE)
   
-* S. J. Sloman, **A. Bharti**, S. Kaski, "Bayesian Active Learning in the Presence of Nuisance Parameters", *Uncertainty in Artificial Intelligence (UAI)*, 2024. [***(Conference)***](https://openreview.net/forum?id=dRa16UhuZi) [***(Preprint)***](https://arxiv.org/abs/2310.14968)
-  - Accepted for oral presentation at UAI
+* S. J. Sloman, **A. Bharti**, S. Kaski, "Bayesian Active Learning in the Presence of Nuisance Parameters", *Uncertainty in Artificial Intelligence (***Oral***)*, 2024. [***(Conference)***](https://openreview.net/forum?id=dRa16UhuZi) [***(Preprint)***](https://arxiv.org/abs/2310.14968)
 
 * J. Martinelli, **A. Bharti**, ST John, A. Tiihonen, S. Sloman, L. Filstroff, S. Kaski, "Learning relevant contextual variables within Bayesian Optimization", *Uncertainty in Artificial Intelligence (UAI)*, 2024. [***(Conference)***](https://openreview.net/forum?id=qb33ha9frm)  [***(Preprint)***](https://arxiv.org/abs/2305.14120)
 
