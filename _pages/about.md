@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Academy Research Fellow at the Department of Computer Science, Aalto University, supported by the Research Council of Finland. I am affiliated with the [Probabilistic Machine Learning](https://research.cs.aalto.fi/pml/) research group and the [Finnish Centre for Artificial Intelligence](https://fcai.fi/). Previously, I was a postdoctoral researcher working with Prof. Samuel Kaski at Aalto University. I did my PhD from the Department of Electronic Systems, Aalborg University, Denmark on making approximate Bayesian computation methods for estimating parameters of stochastic models in the field of radio propagation. 
+I am an Academy Research Fellow at the Department of Computer Science, Aalto University, supported by the Research Council of Finland. I lead the [Approximate Inference Lab](https://approximate-inference.github.io/) and am affiliated with the [Finnish Centre for Artificial Intelligence](https://fcai.fi/). Previously, I was a postdoctoral researcher working with Prof. Samuel Kaski at Aalto University. I did my PhD from the Department of Electronic Systems, Aalborg University, Denmark on making approximate Bayesian computation methods for estimating parameters of stochastic models in the field of radio propagation. 
 
 My primary research area is ***simulation-based inference*** (or likelihood-free inference). I am interested in developing approximate inference methods that are (i) robust to model misspecification, and (ii) computationally efficient. For more details on my work, see my [Publications](https://bharti-ayush.github.io/publications/) page or my [Google scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=6_7vkiUAAAAJ&sortby=pubdate)
 
