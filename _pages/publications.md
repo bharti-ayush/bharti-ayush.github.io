@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-* D. Huang, X. Wen, **A. Bharti**, S. Kaski, L. Acerbi, "ALINE: Joint Amortization for Bayesian Inference and Active Data Acquisition", *accepted at NeurIPS*, 2025. [***(Preprint)***](https://arxiv.org/abs/2506.07259) [***(Code)***](https://github.com/huangdaolang/aline)
+* D. Huang, X. Wen, **A. Bharti**, S. Kaski, L. Acerbi, "ALINE: Joint Amortization for Bayesian Inference and Active Data Acquisition", *accepted at NeurIPS (***Spotlight***)*, 2025. [***(Preprint)***](https://arxiv.org/abs/2506.07259) [***(Code)***](https://github.com/huangdaolang/aline)
 
 * Y. Hikida, **A. Bharti**, N. Jeffry, F-X. Briol, "Multilevel neural simulation-based inference", *accepted at NeurIPS*, 2025. [***(Preprint)***](https://arxiv.org/abs/2506.06087) [***(Code)***](https://github.com/yugahikida/multilevel-sbi)
 
