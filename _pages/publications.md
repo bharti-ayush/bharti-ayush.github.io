@@ -4,9 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-* D. Huang, X. Wen, **A. Bharti**, S. Kaski, L. Acerbi, "ALINE: Joint Amortization for Bayesian Inference and Active Data Acquisition", *accepted at NeurIPS (***Spotlight***)*, 2025. [***(Preprint)***](https://arxiv.org/abs/2506.07259) [***(Code)***](https://github.com/huangdaolang/aline)
+* D. Huang, X. Wen, **A. Bharti**, S. Kaski, L. Acerbi, "ALINE: Joint Amortization for Bayesian Inference and Active Data Acquisition", *The Thirty-ninth Annual Conference on Neural Information Processing Systems (***Spotlight***)*, 2025. [***(Conference)***](https://openreview.net/forum?id=btm5Z5Vu8G) [***(Preprint)***](https://arxiv.org/abs/2506.07259) [***(Code)***](https://github.com/huangdaolang/aline)
 
-* Y. Hikida, **A. Bharti**, N. Jeffry, F-X. Briol, "Multilevel neural simulation-based inference", *accepted at NeurIPS*, 2025. [***(Preprint)***](https://arxiv.org/abs/2506.06087) [***(Code)***](https://github.com/yugahikida/multilevel-sbi) [***(Video)***](https://www.youtube.com/watch?v=hBWd85edW3w)
+* Y. Hikida, **A. Bharti**, N. Jeffry, F-X. Briol, "Multilevel neural simulation-based inference", *The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2025. [***(Conference)***](https://openreview.net/forum?id=KculbVVCly)  [***(Preprint)***](https://arxiv.org/abs/2506.06087) [***(Code)***](https://github.com/yugahikida/multilevel-sbi) [***(Video)***](https://www.youtube.com/watch?v=hBWd85edW3w)
 
 * **A. Bharti**, D. Huang, S. Kaski, F-X. Briol, "Cost-aware simulation-based inference", *International Conference on Artificial Intelligence and Statistics (AISTATS)*, 2025. [***(Conference)***](https://proceedings.mlr.press/v258/bharti25a.html)  [***(Preprint)***](https://arxiv.org/abs/2410.07930) [***(Code)***](https://github.com/huangdaolang/cost-aware-sbi) [***(Video)***](https://www.youtube.com/watch?v=9tnp9fbpydY)
 
@@ -14,9 +14,9 @@ author_profile: true
   
 * S. J. Sloman, **A. Bharti**, S. Kaski, "Bayesian Active Learning in the Presence of Nuisance Parameters", *Uncertainty in Artificial Intelligence (***Oral***)*, 2024. [***(Conference)***](https://openreview.net/forum?id=dRa16UhuZi) [***(Preprint)***](https://arxiv.org/abs/2310.14968)
 
-* J. Martinelli, **A. Bharti**, ST John, A. Tiihonen, S. Sloman, L. Filstroff, S. Kaski, "Learning relevant contextual variables within Bayesian Optimization", *Uncertainty in Artificial Intelligence (UAI)*, 2024. [***(Conference)***](https://openreview.net/forum?id=qb33ha9frm)  [***(Preprint)***](https://arxiv.org/abs/2305.14120)
+* J. Martinelli, **A. Bharti**, S.T. John, A. Tiihonen, S. Sloman, L. Filstroff, S. Kaski, "Learning relevant contextual variables within Bayesian Optimization", *Uncertainty in Artificial Intelligence (UAI)*, 2024. [***(Conference)***](https://openreview.net/forum?id=qb33ha9frm)  [***(Preprint)***](https://arxiv.org/abs/2305.14120)
 
-* **A. Bharti**\*, D Huang\*, A. H. Souza, L. Acerbi, S. Kaski, "Learning Robust Statistics for Simulation-based Inference under Model Misspecification", *Advances in Neural Information Processing Systems*, 2023. [***(Conference)***](https://openreview.net/forum?id=STrXsSIEiq) [***(Preprint)***](https://arxiv.org/abs/2305.15871) [***(Slides)***](https://bharti-ayush.github.io/files/Presentation_Robust_SBI.pdf) [***(Poster)***](https://bharti-ayush.github.io/files/Poster_Neurips_2023.pdf)
+* **A. Bharti**\*, D Huang\*, A. H. Souza, L. Acerbi, S. Kaski, "Learning Robust Statistics for Simulation-based Inference under Model Misspecification", *Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS)*, 2023. [***(Conference)***](https://openreview.net/forum?id=STrXsSIEiq) [***(Preprint)***](https://arxiv.org/abs/2305.15871) [***(Slides)***](https://bharti-ayush.github.io/files/Presentation_Robust_SBI.pdf) [***(Poster)***](https://bharti-ayush.github.io/files/Poster_Neurips_2023.pdf)
 
 * **A. Bharti**, M. Naslidnyk, O. Key, S. Kaski, F-X. Briol, "Optimally-Weighted Estimators of the Maximum Mean Discrepancy for Likelihood-Free Inference", *Proceedings of the 40th International Conference on Machine Learning, PMLR 202:2289-2312*, 2023. [***(Conference)***](https://proceedings.mlr.press/v202/bharti23a.html) [***(Preprint)***](https://arxiv.org/abs/2301.11674) [***(Code)***](https://github.com/bharti-ayush/optimally-weighted_MMD) [***(Slides)***](https://bharti-ayush.github.io/files/OptimallyWeighted_MMD_slides.pdf) [***(Poster)***](https://bharti-ayush.github.io/files/Poster_ICML2023.pdf) 
 
