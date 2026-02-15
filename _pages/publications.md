@@ -4,6 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+* **A. Bharti**\*, C. Dellaporta\*, Y. Hikida, F-X. Briol, "Amortised and provably-robust simulation-based inference", *arxiv 2602.11325*, 2025. [***(Preprint)***](https://arxiv.org/abs/2602.11325) [***(Code)***](https://github.com/bharti-ayush/nsm-bayes) 
+
 * D. Huang, X. Wen, **A. Bharti**, S. Kaski, L. Acerbi, "ALINE: Joint Amortization for Bayesian Inference and Active Data Acquisition", *The Thirty-ninth Annual Conference on Neural Information Processing Systems (***Spotlight***)*, 2025. [***(Conference)***](https://openreview.net/forum?id=btm5Z5Vu8G) [***(Preprint)***](https://arxiv.org/abs/2506.07259) [***(Code)***](https://github.com/huangdaolang/aline)
 
 * Y. Hikida, **A. Bharti**, N. Jeffry, F-X. Briol, "Multilevel neural simulation-based inference", *The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2025. [***(Conference)***](https://openreview.net/forum?id=KculbVVCly)  [***(Preprint)***](https://arxiv.org/abs/2506.06087) [***(Code)***](https://github.com/yugahikida/multilevel-sbi) [***(Video)***](https://www.youtube.com/watch?v=hBWd85edW3w)
