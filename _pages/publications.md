@@ -8,7 +8,7 @@ author_profile: true
 
 * D. Huang, X. Wen, **A. Bharti**, S. Kaski, L. Acerbi, "ALINE: Joint Amortization for Bayesian Inference and Active Data Acquisition", *The Thirty-ninth Annual Conference on Neural Information Processing Systems (***Spotlight***)*, 2025. [***(Conference)***](https://openreview.net/forum?id=btm5Z5Vu8G) [***(Preprint)***](https://arxiv.org/abs/2506.07259) [***(Code)***](https://github.com/huangdaolang/aline)
 
-* Y. Hikida, **A. Bharti**, N. Jeffry, F-X. Briol, "Multilevel neural simulation-based inference", *The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2025. [***(Conference)***](https://openreview.net/forum?id=KculbVVCly)  [***(Preprint)***](https://arxiv.org/abs/2506.06087) [***(Code)***](https://github.com/yugahikida/multilevel-sbi) [***(Video)***](https://www.youtube.com/watch?v=hBWd85edW3w)
+* Y. Hikida, **A. Bharti**, N. Jeffrey, F-X. Briol, "Multilevel neural simulation-based inference", *The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2025. [***(Conference)***](https://openreview.net/forum?id=KculbVVCly)  [***(Preprint)***](https://arxiv.org/abs/2506.06087) [***(Code)***](https://github.com/yugahikida/multilevel-sbi) [***(Video)***](https://www.youtube.com/watch?v=hBWd85edW3w)
 
 * **A. Bharti**, D. Huang, S. Kaski, F-X. Briol, "Cost-aware simulation-based inference", *International Conference on Artificial Intelligence and Statistics (AISTATS)*, 2025. [***(Conference)***](https://proceedings.mlr.press/v258/bharti25a.html)  [***(Preprint)***](https://arxiv.org/abs/2410.07930) [***(Code)***](https://github.com/huangdaolang/cost-aware-sbi) [***(Video)***](https://www.youtube.com/watch?v=9tnp9fbpydY)
 
