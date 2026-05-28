@@ -4,8 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-* Y. Guo, D. Huang, X. Zhang, S. Katt, S. Kaski\*, **A. Bharti**\*, "Constrained Bayesian Experimental Design via Online Planning", *International Conference on Machine Learning (ICML)*, 2026. [***(Preprint)***](https://arxiv.org/abs/2605.26990) [***(Code)***](https://github.com/yujiag21/COPEx) 
-* **A. Bharti**\*, C. Dellaporta\*, Y. Hikida, F-X. Briol, "Amortised and provably-robust simulation-based inference", *arxiv 2602.11325*, 2026. [***(Preprint)***](https://arxiv.org/abs/2602.11325) [***(Code)***](https://github.com/bharti-ayush/nsm-bayes) 
+* W. Laplante\*, Y. Hikida\*, C. Dellaporta\*, F-X. Briol, **A. Bharti**, "Conservative Neural Posterior Estimation via Distributionally Robust Training", *arxiv:2605.28516*, 2026. [***(Preprint)***](https://arxiv.org/abs/2605.28516) [***(Code)***](https://github.com/yugahikida/dro-npe)
+  
+* **A. Bharti**\*, C. Dellaporta\*, Y. Hikida, F-X. Briol, "Amortised and provably-robust simulation-based inference", *arxiv:2602.11325*, 2026. [***(Preprint)***](https://arxiv.org/abs/2602.11325) [***(Code)***](https://github.com/bharti-ayush/nsm-bayes)
+  
+* Y. Guo, D. Huang, X. Zhang, S. Katt, S. Kaski\*, **A. Bharti**\*, "Constrained Bayesian Experimental Design via Online Planning", *International Conference on Machine Learning (ICML)*, 2026. [***(Preprint)***](https://arxiv.org/abs/2605.26990) [***(Code)***](https://github.com/yujiag21/COPEx)
 
 * D. Huang, X. Wen, **A. Bharti**, S. Kaski, L. Acerbi, "ALINE: Joint Amortization for Bayesian Inference and Active Data Acquisition", *The Thirty-ninth Annual Conference on Neural Information Processing Systems (***Spotlight***)*, 2025. [***(Conference)***](https://openreview.net/forum?id=btm5Z5Vu8G) [***(Preprint)***](https://arxiv.org/abs/2506.07259) [***(Code)***](https://github.com/huangdaolang/aline)
 
