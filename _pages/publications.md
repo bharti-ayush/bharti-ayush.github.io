@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-* W. Laplante\*, Y. Hikida\*, C. Dellaporta\*, F-X. Briol, **A. Bharti**, "Conservative Neural Posterior Estimation via Distributionally Robust Training", *arxiv:2605.28516*, 2026. [***(Preprint)***](https://arxiv.org/abs/2605.28516) [***(Code)***](https://github.com/yugahikida/dro-npe)
+* W. Laplante\*, Y. Hikida\*, C. Dellaporta\*, F-X. Briol, **A. Bharti**, "Conservative Neural Posterior Estimation via Distributionally Robust Training", *Conference on Neural Information Processing Systems (NeurIPS)*, 2026. [***(Preprint)***](https://arxiv.org/abs/2605.28516) [***(Code)***](https://github.com/yugahikida/dro-npe)
   
 * **A. Bharti**\*, C. Dellaporta\*, Y. Hikida, F-X. Briol, "Amortised and provably-robust simulation-based inference", *arxiv:2602.11325*, 2026. [***(Preprint)***](https://arxiv.org/abs/2602.11325) [***(Code)***](https://github.com/bharti-ayush/nsm-bayes)
   
