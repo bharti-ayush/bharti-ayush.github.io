@@ -13,6 +13,7 @@ I am an Academy Research Fellow at Aalto University, supported by the Research C
 My primary research area is ***simulation-based inference*** (or likelihood-free inference). I am interested in developing approximate inference methods that are (i) robust to model misspecification, and (ii) computationally efficient. For more details on my work, see my [Publications](https://bharti-ayush.github.io/publications/) page or my [Google scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=6_7vkiUAAAAJ&sortby=pubdate)
 
 ## News
+****September 2026:*** Our paper on [Conservative neural posterior estimation via distributionally robust training](https://arxiv.org/abs/2605.28516) is accepted at NeurIPS 2026.
 * ***May 2026:*** Our paper on [Constrained Bayesian Experimental Design via Online Planning](https://arxiv.org/abs/2605.26990) is accepted at ICML 2026.
 * ***September 2025:*** Our paper on [Multilevel neural simulation-based inference](https://arxiv.org/abs/2506.06087) is accepted at NeurIPS 2025.
 * ***September 2025:*** Our paper titled [ALINE: Joint Amortization for Bayesian Inference and Active Data Acquisition](https://arxiv.org/abs/2506.07259) is accepted at NeurIPS 2025.
